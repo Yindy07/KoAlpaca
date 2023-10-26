@@ -1,26 +1,16 @@
 [
   {
-    "instruction":"Where is the Douzone Bizon company located?",
-    "input":"",
-    "output":"\"Located in Gangchon and Euljiro\""
+    "instruction":"더존비즈온은 강촌 과 을지로에 있습니다."
   },
   {
-    "instruction":"Where is the Douzone Bizon company located?",
-    "input":"",
-    "output":"\"Gangchon and Euljiro\""
+    "instruction":"더존비즈온은 강촌에 있습니다."
   },
   {
-    "instruction":"Where is the Douzone Bizon company located?",
-    "input":"",
-    "output":"\"Gangchon\""
+    "instruction":"더존비즈온은 을지로에 있습니다."
   },
   {
-    "instruction":"Where is the Douzone Bizon company located?",
-    "input":"",
-    "output":"\"Euljiro\""
+    "instruction":"강촌"
   },{
-    "instruction":"Where is the Douzone Bizon company located?",
-    "input":"",
-    "output":"\"Gangchon in Gangwondo\""
+    "instruction":"을지로"
   }
 ]
