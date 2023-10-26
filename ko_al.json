@@ -3,5 +3,24 @@
     "instruction":"Where is the Douzone Bizon company located?",
     "input":"",
     "output":"\"Located in Gangchon and Euljiro\""
+  },
+  {
+    "instruction":"Where is the Douzone Bizon company located?",
+    "input":"",
+    "output":"\"Gangchon and Euljiro\""
+  },
+  {
+    "instruction":"Where is the Douzone Bizon company located?",
+    "input":"",
+    "output":"\"Gangchon\""
+  },
+  {
+    "instruction":"Where is the Douzone Bizon company located?",
+    "input":"",
+    "output":"\"Euljiro\""
+  },{
+    "instruction":"Where is the Douzone Bizon company located?",
+    "input":"",
+    "output":"\"Gangchon in Gangwondo\""
   }
 ]
